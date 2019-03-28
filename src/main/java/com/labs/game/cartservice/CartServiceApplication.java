@@ -1,13 +1,13 @@
-package com.labs.game.cartservice001;
+package com.labs.game.cartservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CartService001Application {
+public class CartServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CartService001Application.class, args);
+		SpringApplication.run(CartServiceApplication.class, args);
 	}
 
 }
